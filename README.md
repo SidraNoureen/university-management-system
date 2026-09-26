@@ -1,29 +1,43 @@
-# university-management-system
-University Management System – Jira/Scrum assignment covering Faculty Management, Course Registration, and Fee Management.
 # University Management System
 
+A Scrum-based University Management System developed as part of a Software Engineering project.
+
 ## Project Overview
-This project is developed as part of a Jira and Scrum-based University Management System assignment.
 
-## Modules
+The University Management System is designed to manage common university operations through separate modules for faculty, course registration, and student fee management.
 
-### Faculty Management
+## Main Modules
+
+### 1. Faculty Management
 - Add Faculty
 - View Faculty
 - Update Faculty
 - Search Faculty
 
-### Course Registration
+### 2. Course Registration
 - View Available Courses
 - Register for Course
 - Drop Course
 - View Registration Status
 
-### Fee Management
+### 3. Fee Management
 - View Fee Details
 - Generate Fee Information
 - Record Fee Payment
 - View Payment Status
 
-## Development Approach
-The project follows Agile and Scrum practices with user stories, sprints, subtasks, testing, refactoring, and continuous integration.
+## Development Methodology
+
+The project follows Agile/Scrum practices including:
+
+- Product Backlog
+- User Stories
+- Sprints
+- Subtasks
+- Testing
+- Refactoring
+- Continuous Integration
+
+## Project Management
+
+Jira is used to manage the project backlog, epics, user stories, sprints, and development tasks.
